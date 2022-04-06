@@ -27,7 +27,7 @@ const SecondPage = () => {
         alignItems: "center"
       }}
     >
-      hola po whaso
+      hola mundo
     </div>
   );
 };
